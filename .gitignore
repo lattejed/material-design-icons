@@ -1,1 +1,11 @@
 node_modules
+
+*.json
+*.js
+*.html
+
+*/*_web
+*/drawable-anydpi-v21
+*/drawable-*dpi
+*/svg
+
